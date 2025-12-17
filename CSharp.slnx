@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Collections/" />
+  <Folder Name="/Collections/ArrayOperations/">
+    <Project Path="ArrayOperations/ArrayOperations.csproj" />
+  </Folder>
+  <Folder Name="/Collections/GenericCollection/" />
+  <Folder Name="/Collections/NonGenericCollection/" />
+</Solution>
